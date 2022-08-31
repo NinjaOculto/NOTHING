@@ -1,0 +1,15 @@
+{
+  "name": "botdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "selenium-webdriver": "^4.2.0"
+  }
+}
